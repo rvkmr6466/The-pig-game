@@ -11,4 +11,3 @@ GAME RULES:
 
 */
 
-file:///F:/Practice/complete-javascript-course-master/4-DOM-pig-game/starter/index.html
